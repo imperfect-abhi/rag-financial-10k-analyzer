@@ -1,0 +1,15 @@
+# Document Parsing & Chunking
+pypdf==4.1.0
+langchain-text-splitters==0.0.1
+
+# Embedding & Vector Database
+sentence-transformers==2.5.1
+chromadb==0.4.24
+
+# Re-ranking
+torch>=2.0.0
+transformers==4.38.2
+
+# LLM Inference & Optimization (For Colab GPU)
+accelerate==0.27.2
+bitsandbytes==0.43.0
