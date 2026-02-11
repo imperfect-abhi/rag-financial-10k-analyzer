@@ -2,6 +2,8 @@
 pypdf==4.1.0
 langchain-text-splitters==0.0.1
 
+
+numpy==1.26.4   
 # Embedding & Vector Database
 sentence-transformers==2.5.1
 chromadb==0.4.24
