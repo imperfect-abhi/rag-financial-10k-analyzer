@@ -1,3 +1,15 @@
+### ⚠️ Session Stability Notice (Important)
+
+When starting the Colab session, you may encounter a prompt to **restart the runtime** due to a binary incompatibility warning.
+
+**Action Required:**
+- Select **Cancel** when prompted.
+- **Do NOT restart the session** once execution has begun.
+- Continue running the notebook to completion in the same session.
+
+Restarting the runtime mid-execution may invalidate the environment state and cause downstream failures.
+
+
 # 🏦 Financial & Legal RAG Analyzer: SEC 10-K Deep Dive
 
 [![Python 3.12](https://img.shields.io/badge/python-3.12-blue.svg)](https://www.python.org/)
