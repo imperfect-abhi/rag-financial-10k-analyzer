@@ -1,0 +1,121 @@
+[
+  {
+    "question_id": 1,
+    "answer": "Total revenue for the fiscal year ended September 28, 2024, was $391,035 million, as stated in the CONSOLIDATED STATEMENTS OF OPERATIONS on Page 32 of the Apple 10-K document.",
+    "sources": [
+      "['Apple 10-K', 'General', 'p. 42']",
+      "['Apple 10-K', 'General', 'p. 32']",
+      "['Apple 10-K', 'General', 'p. 33']",
+      "['Apple 10-K', 'General', 'p. 34']"
+    ]
+  },
+  {
+    "question_id": 2,
+    "answer": "According to the Apple 10-K document, Section: General, Page: 2, as of October 18, 2024, there were 15,115,823,000 shares of common stock issued and outstanding. [Apple 10-K, Section: General, Page: 2]",
+    "sources": [
+      "['Apple 10-K', 'General', 'p. 2']",
+      "['Apple 10-K', 'General', 'p. 22']",
+      "['Apple 10-K', 'General', 'p. 34']",
+      "['Tesla 10-K', 'General', 'p. 2']",
+      "['Apple 10-K', 'General', 'p. 35']"
+    ]
+  },
+  {
+    "question_id": 3,
+    "answer": "$96,662 (Section: General, Page: 34)",
+    "sources": [
+      "['Apple 10-K', 'General', 'p. 46']",
+      "['Apple 10-K', 'General', 'p. 42']",
+      "['Apple 10-K', 'General', 'p. 34']",
+      "['Apple 10-K', 'General', 'p. 28']"
+    ]
+  },
+  {
+    "question_id": 4,
+    "answer": "November 1, 2024",
+    "sources": [
+      "['Apple 10-K', 'General', 'p. 60']",
+      "['Apple 10-K', 'General', 'p. 118']",
+      "['Apple 10-K', 'General', 'p. 3']",
+      "['Apple 10-K', 'General', 'p. 115']"
+    ]
+  },
+  {
+    "question_id": 5,
+    "answer": "Not specified in the document.",
+    "sources": [
+      "['Apple 10-K', 'General', 'p. 3']",
+      "['Apple 10-K', 'General', 'p. 8']",
+      "['Apple 10-K', 'General', 'p. 60']",
+      "['Apple 10-K', 'General', 'p. 34']",
+      "['Apple 10-K', 'General', 'p. 120']"
+    ]
+  },
+  {
+    "question_id": 6,
+    "answer": "According to the provided documents, Tesla's total revenue for the year ended December 31, 2023, was $96,773 million. [Document Name: Tesla 10-K, Section: General, Page: 57]",
+    "sources": [
+      "['Tesla 10-K', 'General', 'p. 51']",
+      "['Tesla 10-K', 'General', 'p. 94']",
+      "['Tesla 10-K', 'General', 'p. 89']",
+      "['Tesla 10-K', 'General', 'p. 52']",
+      "['Tesla 10-K', 'General', 'p. 57']"
+    ]
+  },
+  {
+    "question_id": 7,
+    "answer": "According to the provided documents, Tesla's total revenue in 2023 was $96,773 million. The Automotive Sales revenue, excluding Leasing, was $78,509 million. To find the percentage of total revenue that came from Automotive Sales (excluding Leasing), we use the formula:\n\n\nPercentage = (Automotive Sales revenue / Total revenue) * 100\n\n\nPercentage = ($78,509 million / $96,773 million) * 100\n\nPercentage = 0.8103 * 100\n\nPercentage = 81.03%\n\n\nTherefore, 81.03% of Tesla's total revenue in 2023 came from Automotive Sales (excluding Leasing).",
+    "sources": [
+      "['Tesla 10-K', 'General', 'p. 51']",
+      "['Tesla 10-K', 'General', 'p. 39']",
+      "['Tesla 10-K', 'General', 'p. 40']"
+    ]
+  },
+  {
+    "question_id": 8,
+    "answer": "According to the document Tesla 10-K, Section: General, Page: 22, the primary reason Tesla states for being highly dependent on Elon Musk is that he is the Technoking of Tesla and the company's Chief Executive Officer. Although Mr. Musk spends significant time with Tesla and is highly active in its management, he does not devote his full time and attention to Tesla.",
+    "sources": [
+      "['Tesla 10-K', 'General', 'p. 22']",
+      "['Tesla 10-K', 'General', 'p. 20']",
+      "['Tesla 10-K', 'General', 'p. 14']",
+      "['Tesla 10-K', 'General', 'p. 26']"
+    ]
+  },
+  {
+    "question_id": 9,
+    "answer": "Tesla currently produces and delivers electric vehicles, including the Cybertruck, Model S, Model X, Model 3, and Model Y. Additionally, Tesla offers solar energy systems and Solar Roof products to meet specific customer needs.",
+    "sources": [
+      "['Tesla 10-K', 'General', 'p. 12']",
+      "['Tesla 10-K', 'General', 'p. 121']",
+      "['Tesla 10-K', 'General', 'p. 122']",
+      "['Tesla 10-K', 'General', 'p. 35']",
+      "['Tesla 10-K', 'General', 'p. 7']"
+    ]
+  },
+  {
+    "question_id": 10,
+    "answer": "According to the document Tesla 10-K, Section: General, Page: 82, the purpose of Tesla's 'lease pass-through fund arrangements' is to finance the cost of solar energy systems through investors. These arrangements are structured as master leases for an initial term ranging between 10 and 25 years. The solar energy systems are subject to lease or Power Purchase Agreements (PPAs) with customers for an initial term not exceeding 25 years. Investors make upfront payments and, in some cases, subsequent periodic payments to the lessor, which is one of Tesla's subsidiaries.",
+    "sources": [
+      "['Tesla 10-K', 'General', 'p. 82']",
+      "['Tesla 10-K', 'General', 'p. 121']",
+      "['Tesla 10-K', 'General', 'p. 20']",
+      "['Tesla 10-K', 'General', 'p. 29']",
+      "['Tesla 10-K', 'General', 'p. 13']"
+    ]
+  },
+  {
+    "question_id": 11,
+    "answer": "This question cannot be answered based on the provided documents.",
+    "sources": []
+  },
+  {
+    "question_id": 12,
+    "answer": "Not specified in the document.",
+    "sources": []
+  },
+  {
+    "question_id": 13,
+    "answer": "This question cannot be answered based on the provided documents.",
+    "sources": []
+  }
+]
