@@ -5,7 +5,7 @@
 
 ---
 
-## 1. Executive Summary
+## 1. Summary
 
 The system is a **high-precision Retrieval-Augmented Generation (RAG) pipeline** designed to perform multi-document analysis on SEC 10-K filings.  
 The architecture employs a **two-stage retrieval strategy** (Bi-Encoder + Cross-Encoder) combined with a **quantized Large Language Model (LLM)** to ensure **10/10 accuracy** on complex financial line items and legal risk factors while operating under strict local hardware constraints (**15GB VRAM**).
@@ -132,4 +132,4 @@ The system successfully passed the full evaluation suite:
 ## 7. Conclusion
 
 This RAG system demonstrates that **high-fidelity financial analysis** is achievable using **open-source, local models**.  
-By combining structured metadata extraction, a **two-stage retrieval pipeline**, and rigorous memory management, the architecture meets the highest standards of **Silicon Valley–grade engineering**.
+By combining structured metadata extraction, a **two-stage retrieval pipeline**, and rigorous memory management.

@@ -4,11 +4,11 @@
 [![Colab](https://img.shields.io/badge/Colab-Run%20Notebook-orange.svg)](https://colab.research.google.com/drive/1urFDnyjk1CJZUZvG01IOK8InohJYyB4O?usp=sharing)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-> **"A champion-grade RAG system engineered for surgical precision in financial document analysis."**
+> **"RAG system engineered for precision in financial document like 10-K filings analysis."**
 
 ## 🚀 Live Solution
 The complete, end-to-end modular pipeline is hosted on Google Colab.
-**[👉 Run the Champion RAG Notebook](https://colab.research.google.com/drive/1urFDnyjk1CJZUZvG01IOK8InohJYyB4O?usp=sharing)**
+**[👉 RAG Notebook](https://colab.research.google.com/drive/1urFDnyjk1CJZUZvG01IOK8InohJYyB4O?usp=sharing)**
 
 ---
 
