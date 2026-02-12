@@ -1,7 +1,7 @@
 # Design Report: Architectural Specification for Financial RAG
 
 **Project:** SEC 10-K Retrieval-Augmented Generation (Apple & Tesla)  
-**Engineer:** Silicon Valley Data Scientist (Champion Grade)
+
 
 ---
 
